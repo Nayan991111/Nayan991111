@@ -28,9 +28,47 @@
 
 <h3 align="left">🛠 <b>The Arsenal</b></h3>
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="icon" width="55" height="55" />
+      <br>R
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="icon" width="55" height="55" />
+      <br>Matlab
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>SQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="icon" width="55" height="55" />
+      <br>TensorFlow
+    </td>
+  </tr>
+</table>
+
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="12" loop="infinite">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="50" style="margin: 0 15px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50" style="margin: 0 15px;" /><img 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" height="50" style="margin: 0 15px;" />
   </marquee>
 </div>
 
@@ -38,7 +76,7 @@
 
 <div align="center">
   <marquee behavior="scroll" direction="right" scrollamount="12" loop="infinite">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50" style="margin: 0 15px;" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50" style="margin: 0 15px;" />
   </marquee>
 </div>
 

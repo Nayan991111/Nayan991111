@@ -38,46 +38,4 @@
 
 <div align="center">
   <marquee behavior="scroll" direction="right" scrollamount="12" loop="infinite">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="50" style="margin: 0 15px;" />
-  </marquee>
-</div>
-
----
-
-### 📊 **Quantifying Impact**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayan991111&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nayan991111" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan991111&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nayan991111" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nayan991111/nayan991111/output/snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-### 📬 **Connect & Collaborate**
-
-<a href="https://linkedin.com/in/nayan-pandit">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-<a href="mailto:nayanpandit993281@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-<a href="https://twitter.com/nayan_993281">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-</a>
-<a href="https://instagram.com/mrnayan993281">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nayan991111&label=Profile%20Views&color=0e75b6&style=flat-square" alt="nayan991111" />
-</p>
-
-</div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="50" style="margin: 0 15px;" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" style="margin: 0 15px;" /><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.

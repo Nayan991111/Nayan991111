@@ -8,12 +8,6 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayan991111&no-frame=true&no-bg=true&margin-w=4" alt="nayan991111" /></a>
-</div>
-
-<br/>
-
-<div align="center">
     <img align="right" height="150" src="https://github.com/user-attachments/assets/3801f2c6-2104-432d-bf70-d2686635f092" alt="Profile Image" />
 </div>
 

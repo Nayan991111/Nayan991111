@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **High-Frequency Algorithmic Trading Engines & Real-time Data Pipelines**
 - 🌱 I’m currently learning **Stochastic Calculus, Statistical Drives, Distributed Systems Design, & Market Microstructure**
-- 👯 I’m looking to collaborate on **Open Source Quantitative Analysis Libraries, Scalable Fintech Architectures & Investment Banking projects**
+- 👯 I’m looking to collaborate on **Confidential NDA Projets, Open Source Quantitative Analysis Libraries, Scalable Fintech Architectures & Investment Banking projects**
 - 📝 I regularly write articles on **Quantitative Finance, System Architecture, & Data Engineering**
 - 💬 Ask me about **System Design, C++, Python for Finance, & Derivative Pricing Models**
 - 📫 How to reach me **nayanpandit993281@gmail.com**

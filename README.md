@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Nayan%20Pandit&fontSize=80&animation=fadeIn&fontAlignY=32&desc=Quant%20Developer%20%7C%20FinTech%20Architect&descAlignY=53&descAlign=50" alt="Nayan Pandit Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Nayan%20Pandit&fontSize=80&animation=fadeIn&fontAlignY=32&desc=Quant%20Engineer%20%7C%20FinTech%20Architect&descAlignY=53&descAlign=50" alt="Nayan Pandit Header" width="100%" />
 </div>
 
 <h3 align="center">

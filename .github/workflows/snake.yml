@@ -25,6 +25,10 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+        env:
+          # The action reads GITHUB_TOKEN from the environment BEFORE its
+          # github_token input (packages/action/index.ts), so set both.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

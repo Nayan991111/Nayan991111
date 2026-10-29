@@ -85,12 +85,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-o
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan991111&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&radius=6" alt="Contribution activity graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="./metrics.svg" alt="Commits, pull requests, reviews and languages, private repositories included (updated daily)" width="100%" />
 </div>
 

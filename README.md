@@ -79,14 +79,29 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-o
 ### 📊 **Quantifying Impact**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayan991111&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nayan991111" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayan991111&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="nayan991111" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Nayan991111&theme=tokyonight&hide_border=true&background=0D1117&date_format=M%20j%5B%2C%20Y%5D" alt="Total contributions and streak" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nayan991111/nayan991111/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayan991111&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&radius=6" alt="Contribution activity graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./metrics.svg" alt="Commits, pull requests, reviews and languages, private repositories included (updated daily)" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nayan991111/Nayan991111/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nayan991111/Nayan991111/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Nayan991111/Nayan991111/output/snake.svg" alt="Snake animation" width="100%" />
+  </picture>
 </div>
 
 ---

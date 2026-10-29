@@ -1,6 +1,6 @@
-# Contribution snake, light + dark, regenerated daily from your public contribution
-# calendar (which already includes private contributions as counts) and published
-# to the `output` branch that README.md reads. Public repo: free Actions minutes.
+# Contribution snake, light + dark, regenerated daily from your full contribution
+# calendar (private contributions included as counts, via METRICS_TOKEN) and
+# published to the `output` branch that README.md reads. Public repo: free minutes.
 name: Generate snake
 
 on:
@@ -19,6 +19,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Your own token, so the calendar includes private contributions
+          # (GITHUB_TOKEN only sees public ones: 60 of your active days).
+          github_token: ${{ secrets.METRICS_TOKEN }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark

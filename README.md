@@ -1,22 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Nayan%20Pandit&fontSize=80&animation=fadeIn&fontAlignY=32&desc=Quant%20Engineer%20%7C%20FinTech%20Architectural%20Researcher&descAlignY=53&descAlign=50" alt="Nayan Pandit Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Nayan%20Pandit&fontSize=80&animation=fadeIn&fontAlignY=32&desc=Computer%20Engineer%20%7C%20Independent%20Researcher%20%7C%20Microarchitecture%20%7C%20Low-Latency%20Systems&descAlignY=53&descAlign=50" alt="Nayan Pandit Header" width="100%" />
 </div>
 
 <h3 align="center">
-  Engineering Expertise & Quantitative Finance<br/>
-  <i>Architecting Low-Latency Financial Infrastructures & Stochastic Models</i>
+  Microarchitecture, Memory Models & Low-Latency Systems<br/>
+  <i>Measuring what the hardware does, not what the specification promises</i>
 </h3>
 
 <div align="center">
     <img align="right" height="150" src="https://github.com/user-attachments/assets/3801f2c6-2104-432d-bf70-d2686635f092" alt="Profile Image" />
 </div>
 
-- 🔭 I’m currently working on **High-Frequency Algorithmic Trading Engines & Real-time Data Pipelines**
-- 🌱 I’m currently learning **Stochastic Calculus, Statistical Drives, Distributed Systems Design, & Market Microstructure**
-- 👯 I’m looking to collaborate on **Confidential NDA Projets, Open Source Quantitative Analysis Libraries, Telemetry Libraries Scalable Fintech Architectures**
-- 📝 I regularly write articles on **Quantitative Finance, System Architecture, & Data Engineering**
-- 💬 Ask me about **System Design, C++, Python for Finance, & Derivative Pricing Models**
-- 📫 How to reach me **nayanpandit993281@gmail.com**
+- 🔬 **Currently building** — pre-registered performance studies on Apple silicon: cycle-level PMU instrumentation through `kperf`, lock-free SPSC hand-off, and allocation-free hot paths in Rust
+- 📄 **Current work** — [Titan: cycle-level measurement of market-data handling and inter-core hand-off on Apple M4](https://doi.org/10.5281/zenodo.24490481) · 94 hypotheses registered with thresholds fixed before the run, 220 registered parts reported including the 69 that failed
+- 🧠 **Currently studying** — ARM weak memory consistency, store-buffer and cache-coherence behaviour, stochastic calculus, and market microstructure
+- 🤝 **Open to collaborate on** — computer architecture and performance-measurement research, reproducibility and artifact-evaluation tooling, open-source quantitative libraries, and low-latency exchange infrastructure
+- ✍️ **Writing on** — performance engineering, memory models, and the measurement errors that survive peer review
+- 💬 **Ask me about** — memory ordering on ARM, lock-free queues, hardware performance counters, Rust and C++ systems design, and derivative pricing
+- 📫 **Reach me** — nayanpandit993281@gmail.com · [ORCID](https://orcid.org/0009-0001-2837-2987)
 
 <br clear="right"/>
 
